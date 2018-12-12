@@ -1,5 +1,5 @@
 # FlipsCard
-{ "cardType":0,
+{"cardType":0,
 "cardQuality":"high",
 "cardSize":"",
 "cardColor":"white",
