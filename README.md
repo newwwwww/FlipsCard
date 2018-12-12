@@ -1,4 +1,3 @@
-# FlipsCard
 {"cardType":0,
 "cardQuality":"high",
 "cardSize":"",
