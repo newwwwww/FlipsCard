@@ -1,2 +1,2 @@
 # Privacy-Policy
-PrivacyPolicy {"PrivacyPolicyUrl":"https://pan.wps.cn/l/sbsuvbq", "platform":"android"}
+PrivacyPolicy {"PrivacyPolicyUrl":"https://penzu.com/p/14ece679", "platform":"ios"}
